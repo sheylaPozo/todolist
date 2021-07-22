@@ -1,7 +1,5 @@
-function Task(description, completed = false, index) {
+export default function Task(description, completed = false, index) {
   this.description = description;
   this.completed = completed;
-  this.index = 1;
+  this.index = index;
 }
-
-export { Task };

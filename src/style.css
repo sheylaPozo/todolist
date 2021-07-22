@@ -10,14 +10,14 @@ body {
 
 .fa,
 .fas {
-  color: grey;
+  color: rgb(177, 68, 68);
 }
 
-#toDoLists {
+#ToDoLists {
   width: 600px;
   margin-left: auto;
   margin-right: auto;
-  box-shadow: grey 1rem 1rem 3rem;
+  box-shadow: rgb(177, 68, 68) 1rem 1rem 3rem;
   background-color: #fff;
   margin-top: 3rem;
 }
@@ -41,8 +41,8 @@ input[type="text"] {
   font-size: 18px;
   font-style: italic;
   border: none;
-  border-top: 1px solid grey;
-  border-bottom: 1px solid grey;
+  border-top: 1px solid rgb(107, 77, 107);
+  border-bottom: 1px solid rgb(107, 77, 107);
 }
 
 .taskList {
@@ -50,7 +50,7 @@ input[type="text"] {
 }
 
 .list {
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid rgb(107, 77, 107) ;
   display: flex;
   justify-content: space-between;
   padding: 1rem;
@@ -73,8 +73,9 @@ input[type="checkbox"] {
 .clear-button {
   width: 100%;
   padding: 1rem;
-  background-color: rgb(243, 237, 237);
+  background-color: rgb(226, 1, 189);
   font-size: 20px;
-  color: rgba(000, 000, 000, 0.5);
+  color: rgba(231, 226, 226, 0.925);
   border: none;
 }
+
