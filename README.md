@@ -26,7 +26,7 @@ The Basic-webpack-setup project is been made with HTML5, CSS3 and JS, following 
 ![Demo](assets/todolist.JPG)
 
 
-The main purpose of the project [To do list](https://sheylapozo.github.io/Basic-webpack-setup/)  is to put in practice HTML5, CSS3, and Javascript concepts to build a website with all the proffesional outview of it.
+The main purpose of the project [To do list](https://sheylapozo.github.io/todolist/)  is to put in practice HTML5, CSS3, and Javascript concepts to build a website with all the proffesional outview of it.
 
 # 🤍 Live Demo 🤍
 ---
@@ -90,7 +90,7 @@ For tracking linter errors locally you need to follow these steps:
 Contributions, issues, and feature requests are welcome! 🤍
 
 
-Feel free to check the [issues page](https://github.com/sheylapozo/Basic-webpack-setup/issues).
+Feel free to check the [issues page](https://github.com/sheylapozo/todolist/issues).
 
 ## Dependencies
 
