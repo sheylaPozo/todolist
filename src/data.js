@@ -19,7 +19,7 @@ const defaultTodo = [
     index: 2,
   },
   {
-    description: 'Feed the',
+    description: 'Feed the Kitties',
     completed: false,
     id: 2,
     index: 3,
