@@ -23,7 +23,9 @@ The Basic-webpack-setup project is been made with HTML5, CSS3 and JS, following 
 - Webpack🤍
 
 ---
-![Demo](assets/todolist.JPG)
+       Before        | Project Completed
+-------------------- | ----------------------
+![Before](assets/todolist.JPG)![After](https://user-images.githubusercontent.com/54015740/126842893-37737ecf-05ce-4278-9de5-044f2fb97b04.jpg)
 
 
 The main purpose of the project [To do list](https://sheylapozo.github.io/todolist/)  is to put in practice HTML5, CSS3, and Javascript concepts to build a website with all the proffesional outview of it.
