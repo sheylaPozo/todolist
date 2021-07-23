@@ -37,6 +37,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
+    "@shopify/draggable": "*",
     "acorn": "^8.4.1",
     "ajv": "^6.12.6",
     "ajv-keywords": "^3.5.2",
