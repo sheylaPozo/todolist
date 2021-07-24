@@ -3,37 +3,33 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"
-      crossorigin="anonymous"
-      rel="stylesheet"
-    />
     <title>To do list</title>
+    <script
+      src="https://kit.fontawesome.com/a076d05399.js"
+      crossorigin="anonymous"
+    ></script>
   </head>
   <body>
-    <main id="app" class="myapp">
-      <header class="header flex-row">
-        <h1>Today's Things To Do</h1>
-        <i class="fas fa-sync-alt"></i>
-      </header>
-      <form class="form flex-row" id="form">
-        <input
-          type="text"
-          id="input"
-          placeholder="Add to your list..."
-          autocomplete="off"
-          class="input"
-        />
-        <button type="submit" title="update">
-          <i class="fas fa-level-down-alt"></i>
-        </button>
-      </form>
-      <ul id="list"></ul>
-      <footer class="footer flex-row">
-        <button class="clearbtn" type="button" id="clear-btn">
-          Clear all completed
-        </button>
-      </footer>
-    </main>
+    <div class="wrapper">
+      <div class="card">
+        <div class="task-title">
+          <p>Today's Things To Do</p>
+        </div>
+        <div>
+          <input
+            type="text"
+            id="input-task"
+            class="input-list"
+            placeholder="add your list..."
+          />
+        </div>
+        <ul class="list-group list-group-flush" id="task-list"></ul>
+        <div>
+          <button id="clear-all-task" class="delete-all-task">
+            Clear all completed
+          </button>
+        </div>
+      </div>
+    </div>
   </body>
 </html>
