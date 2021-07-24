@@ -33,7 +33,7 @@ The main purpose of the project [To do list](https://sheytodolist.netlify.app/) 
 # 🤍 Live Demo 🤍
 ---
 
-🤍 [Demo](https://sheytodolist.netlify.app/) 
+🤍 [Live Demo](https://sheytodolist.netlify.app/) 
 
 ---
 
