@@ -1,4 +1,3 @@
-/* eslint-disable no-plusplus */
 import './style.css';
 
 import dragAndDrop from './dragAndDrop.js';
@@ -33,8 +32,7 @@ class TaskList {
   updateList() {
     let newIndex = 0;
     this.savedList = JSON.parse(localStorage.getItem('savedList')) || [];
-    // eslint-disable-next-line no-return-assign
-    this.savedList.filter((obj) => (obj.index = newIndex++));
+    this.savedList.forEach((obj) => { newIndex += 1; obj.index = newIndex; });
     localStorage.setItem('savedList', JSON.stringify(this.savedList));
   }
 

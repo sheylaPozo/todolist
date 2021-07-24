@@ -1,4 +1,3 @@
-/* stylelint-disable number-no-trailing-zeros */
 body {
   background: #bd7bbd;
   font-style: normal;
@@ -15,6 +14,7 @@ body {
 
 .task-title {
   padding: 5px 10px;
+  font-size: 30px;
 }
 
 .input-list {

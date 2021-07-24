@@ -1,5 +1,4 @@
-// eslint-disable-next-line import/extensions
-import newTask from './addAndRemove';
+import newTask from './addAndRemove.js';
 
 document.getElementById('input-task').addEventListener('keypress', (e) => {
   if (e.key === 'Enter') {

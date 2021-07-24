@@ -7,8 +7,7 @@ function sorting(source, target) {
   const sourceObj = savedList[source];
   const souceIndex = savedList[source].index;
   let targetIndex;
-  // eslint-disable-next-line array-callback-return
-  savedList.map((obj) => {
+  savedList.forEach((obj) => {
     if (obj.index === Number(target)) {
       targetIndex = savedList.indexOf(obj);
     }
