@@ -2,6 +2,7 @@ body {
   background: #bd7bbd;
   font-style: normal;
   color: rgb(255, 0, 170);
+  display:flex;
 }
 
 .wrapper {
