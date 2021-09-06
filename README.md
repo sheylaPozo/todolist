@@ -1,12 +1,10 @@
-![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
+![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ![](https://img.shields.io/github/followers/sheylaPozo?style=social)
 
 # To do list
 ---
 > This project is been made with HTML5, CSS3, JS, and webpack, following the guidelines of 
 ![Microverse](https://img.shields.io/badge/Microverse2.0-blueviolet)[🔗](https://www.microverse.org/) for best practices, as part of Microverse 2.0 curriculum.
 ---
-![](https://img.shields.io/github/followers/sheylaPozo?style=social)
-
 
 # Module 2 : "To do list" 
 ---
