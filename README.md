@@ -8,13 +8,12 @@
 
 # Module 2 : "To do list" 
 ---
-|------------------|
-|  To do list      |
+|      
 --------------------
-        |
+ To do list : Application or tool that keeps your daily activities on a lit and helps you organize |your day, by listing the things you have yet to do and have completed doing during the day        |
+ that you need to do allowing you to mark them as complete.                                        |
 --------------------
-
-> "To-do list" app is a tool that helps you organize your day, by listing the things that you need to do allowing you to mark them as complete. Minimalist Todo list web application manages your daily activities making your life easy and organized.
+> Minimalist To do list web application manages your daily activities making your life easy and organized.
 
 ## 🤍 Built With:
 
