@@ -1,9 +1,7 @@
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-## To do list
----------------
-|  To do List  |
-----------------
+# To do list
+---
 > The Basic-webpack-setup project is been made with HTML5, CSS3 and JS, following the guidelines of 
 ![Microverse](https://img.shields.io/badge/Microverse2.0-blueviolet)[🔗](https://www.microverse.org/) for best practices.
 ---
