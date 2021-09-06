@@ -1,9 +1,9 @@
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To do list
+##### To do list
 ---
-> The Basic-webpack-setup project is been made with HTML5, CSS3 and JS, following the guidelines of 
-![Microverse](https://img.shields.io/badge/Microverse2.0-blueviolet)[🔗](https://www.microverse.org/) for best practices.
+###### The To do list project is been made with HTML5, CSS3 and JS, following the guidelines of 
+![Microverse](https://img.shields.io/badge/Microverse2.0-blueviolet)[🔗](https://www.microverse.org/) for best practices, as part of Microverse 2.0 curriculum.
 ---
 ![](https://img.shields.io/github/followers/sheylaPozo?style=social)
 
@@ -11,8 +11,7 @@
 # Module 2 : "To do list" 
 ---
 
-> This project is part of Microverse's 2.0 curriculum. and it's been built with Html5 and CSS3 and JS as part of Microverse 2.0 curriculum.
-> To Do List Application made with Javascript and webpack.
+> To Do List Application made with Javascript and webpack, to add your list of to dos, and remove them when they are done.
 
 ## 🤍 Built With:
 
