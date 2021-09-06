@@ -8,12 +8,10 @@
 
 # Module 2 : "To do list" 
 ---
---------------------
-         |
---------------------
-| To do list :      |                        
---------------------
-> Minimalist To do list web application manages your daily activities making your life easy and organized. Application or tool that keeps your daily activities on a list of to dos, helping you organize your day, by listing the things you have yet to do and the things you have completed doing during the day, you can mark them as completed once they are done, and erase them after.         
+|---------------------------------------------------------------------------------------------------|
+| Minimalist To do list web application manages your daily activities making your life easy and     | |organized. Application or tool that keeps your daily activities on a list of to dos, helping you   | |organize your day, by listing the things you have yet to do and the things you have completed doing ||during the day, you can mark them as completed once they are done, and erase them after.            |
+-----------------------------------------------------------------------------------------------------
+
 
 ## 🤍 Built With:
 
