@@ -1,13 +1,13 @@
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet) ![](https://img.shields.io/github/followers/sheylaPozo?style=social)
 
-# To do list
+# Module 2: To do list
 ---
 > This project is been made with HTML5, CSS3, JS, and webpack, following the guidelines of 
 ![Microverse](https://img.shields.io/badge/Microverse2.0-blueviolet)[🔗](https://www.microverse.org/) for best practices, as part of Microverse 2.0 curriculum. |
 ---
 
                                     --------------------------- 
-                                    |  Module 2 : "To do list" |
+                                    |    To do list            |
                                     ----------------------------
 > Minimalist To do list web application manages your daily activities making your life easy and     organized. Application or tool that keeps your daily activities on a list of to dos, helping you   organize your day, by listing the things you have yet to do and the things you have completed doing during the day, you can mark them as completed once they are done, and erase them after.           |
 -----------------------------------------------------------------------------------------------------
