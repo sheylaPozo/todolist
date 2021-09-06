@@ -32,8 +32,8 @@ Desktop version      | Mobile version
 # 🤍 Live Demo 🤍
 ---
 
-- 🤍 [Netlify](https://sheytodolist.netlify.app/) 
-- 🤍 [Github Pages](https://sheylapozo.github.io/todolist/) 
+-  [Netlify](https://sheytodolist.netlify.app/) 🤍
+-  [Github Pages](https://sheylapozo.github.io/todolist/) 🤍
 
 ---
 
