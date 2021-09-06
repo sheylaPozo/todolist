@@ -23,8 +23,7 @@ The Basic-webpack-setup project is been made with HTML5, CSS3 and JS, following 
 - Webpack🤍
 
 
----
-| To do list | 
+|                                To do List                                                         | 
 -----------------------------------------------------------------------------------------------------|
      Desktop Version |     Mobile Version
 -------------------- | ------------------------
