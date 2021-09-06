@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To do list</title>
+    <script
+      src="https://kit.fontawesome.com/a076d05399.js"
+      crossorigin="anonymous"
+    ></script>
+  <script defer src="main.js"></script></head>
+  <body>
+    <div class="wrapper">
+      <div class="card">
+        <div class="task-title">
+          <p>Today's Things To Do</p>
+        </div>
+        <div>
+          <input
+            type="text"
+            id="input-task"
+            class="input-list"
+            placeholder="add your list..."
+          />
+        </div>
+        <ul class="list-group list-group-flush" id="task-list"></ul>
+        <div>
+          <button id="clear-all-task" class="delete-all-task">
+            Clear all completed
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
