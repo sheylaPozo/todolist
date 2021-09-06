@@ -22,7 +22,7 @@ The Basic-webpack-setup project is been made with HTML5, CSS3 and JS, following 
 - JS     🤍
 - Webpack🤍
 
-```
+
 ---
 | To do list | 
 -----------------------------------------------------------------------------------------------------|
@@ -30,7 +30,7 @@ The Basic-webpack-setup project is been made with HTML5, CSS3 and JS, following 
 -------------------- | ------------------------
 ![Desktop](https://user-images.githubusercontent.com/54015740/126842893-37737ecf-05ce-4278-9de5-044f2fb97b04.jpg)|![Mobile](https://user-images.githubusercontent.com/54015740/132259466-52956dc8-121d-403e-a1af-43c7582bce3b.png)
 -----------------------------------------------
-```
+
 
 The main purpose of the project [To do list](https://sheytodolist.netlify.app/) is to put in practice HTML5, CSS3, and Javascript concepts to build a website with all the proffesional outview of it.
 
